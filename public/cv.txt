@@ -1,0 +1,16 @@
+CURRÍCULUM — ANTENEH
+Desarrollador web
+
+PERFIL
+Desarrollador web interesado en crear experiencias digitales útiles, visuales e interactivas.
+
+PROYECTOS DESTACADOS
+
+01 · Visor 3D de placa base
+Modelo interactivo en formato GLB, integrado en un portfolio web. Permite rotar y acercar la pieza en tiempo real.
+
+02 · Gaming laptop 3D
+Modelo de una laptop gaming presentado en un visor interactivo en el navegador.
+
+INFORMACIÓN POR COMPLETAR
+Apellidos · Correo electrónico · Teléfono · Ubicación · Formación · Experiencia · Enlaces profesionales
